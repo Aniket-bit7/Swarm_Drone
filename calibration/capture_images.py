@@ -4,7 +4,7 @@ import sys
 
 sys.path.insert(0, os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
 
-PHONE_IP   = "10.181.123.13"   # ← your hotspot IP
+PHONE_IP   = "10.110.189.147"   # ← your hotspot IP
 PHONE_PORT = "8080"
 STREAM_URL = f"http://{PHONE_IP}:{PHONE_PORT}/video"
 
