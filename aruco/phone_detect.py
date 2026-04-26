@@ -9,7 +9,7 @@ from aruco.utils import get_detector
 # -------------------------------------------------------
 # PUT YOUR PHONE IP HERE (shown on IP Webcam app screen)
 # -------------------------------------------------------
-PHONE_IP   = "10.181.123.13"
+PHONE_IP   = "10.110.189.147"
 PHONE_PORT = "8080"
 STREAM_URL = f"http://{PHONE_IP}:{PHONE_PORT}/video"
 # -------------------------------------------------------
